@@ -1,13 +1,12 @@
 ﻿using System;
 
-
-namespace DegerVeReferansTipleri
+namespace Koleksiyonlar
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+           
         }
     }
 }
